@@ -17,8 +17,17 @@
 
 ### 项目截图：
 
-https://www.getweapp.com/project?projectId=583aa05be8ff074c22472f35
+http://www.see-source.com/mykanyuan/file/kindeditor/images/20161206/1481029582579005957.png
 
+http://www.see-source.com/mykanyuan/file/kindeditor/images/20161206/1481029582923080920.png
+
+http://www.see-source.com/mykanyuan/file/kindeditor/images/20161206/1481029583454020011.png
+
+http://www.see-source.com/mykanyuan/file/kindeditor/images/20161206/1481029583861066766.png
+
+http://www.see-source.com/mykanyuan/file/kindeditor/images/20161206/1481029584173087382.png
+
+ 
 ### 源码地址：
 
 https://github.com/getweapp/weapp-meirong
